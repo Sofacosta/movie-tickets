@@ -1,48 +1,17 @@
 ## Movie Tickets
-#### **
-***By Andrew Lawson © 2021***
+#### *Epicodus Intermediate JavaScript: Week 4, Lesson 23*
+***By Andrew Lawson, Sofia Acosta, & Salim Mayan © 2021***
 
 ## *Description:*
-
+A movie ticket price calculator based on the time of the movie and the age of the movie-goer. Concepts include form submissions, costructors, and prototypes.
 
 ## *Tests*
-#### Test 1:
-Describe:
-Test:
-Expect
-#### Test 2:
-Describe:
-Test:
-Expect     
-#### Test 3:
-Describe:
-Test:
-Expect
-#### Test 4:
-Describe:
-Test:
-Expect
-#### Test 5:
-Describe:
-Test:
-Expect
-#### Test 6:
-Describe:
-Test:
-Expect
-#### Test 7:
-Describe:
-Test:
-Expect
-#### Test 8:
-Describe: 
-Test:
-Expect
+
 
 ## *Setup Instructions:*
 
-1. Copy .
-2. Run git clone  to add directory to your computer.
+1. Copy https://github.com/andyL89/movie-tickets.git.
+2. Run git clone https://github.com/andyL89/movie-tickets.git to add directory to your computer.
 2. Navigate to the top level of the directory.
 3. Open index.html in your browser.
 
@@ -62,3 +31,5 @@ Expect
 ## Contact Information
 
 Andrew Lawson : alawson89@gmail.com
+Sofia Acosta sofiaacostarascon@gmail.com
+Salim Mayan mailsalim@gmail.com
